@@ -22,6 +22,15 @@ All values come from [mcp-listing.md](mcp-listing.md). Copy exactly; do not reph
   {"mcpServers":{"alexcredit-catalog":{"type":"streamable-http","url":"https://alexcredit.kz/api/mcp"}}}
   ```
 
+## Smithery — https://smithery.ai/server/alexandr-rzk/alexcredit-catalog (edit listing)
+
+The server is already published from the CLI. Log in as the owner and fill in the listing:
+
+- Display name: AlexCredit — Kazakhstan Microfinance Catalog
+- Description: *Long description* above
+- Icon: `assets/icon-512.png`
+- Homepage: https://alexcredit.kz · Repository: https://github.com/alexandrrzk-ctrl/alexcredit-mcp
+
 ## PulseMCP — https://www.pulsemcp.com (Submit)
 
 - Server name: AlexCredit — Kazakhstan Microfinance Catalog

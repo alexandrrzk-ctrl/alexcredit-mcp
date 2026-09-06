@@ -6,8 +6,8 @@ Server: `https://alexcredit.kz/api/mcp` · registry name `kz.alexcredit/catalog`
 |---|---|---|---|---|
 | GitHub showcase repo | 2026-09-07 | done | https://github.com/alexandrrzk-ctrl/alexcredit-mcp | README, tools, install, terms, MIT for docs |
 | Official MCP Registry (registry.modelcontextprotocol.io) | 2026-09-07 | pending | — | namespace `kz.alexcredit/catalog` via DNS TXT on alexcredit.kz; publish with mcp-publisher |
-| awesome-mcp-servers (punkpeye) | 2026-09-07 | pending | — | PR into Finance & Fintech |
-| Smithery | 2026-09-07 | pending | — | `smithery mcp publish https://alexcredit.kz/api/mcp` |
+| awesome-mcp-servers (punkpeye) | 2026-09-07 | branch ready | https://github.com/alexandrrzk-ctrl/awesome-mcp-servers/tree/add-alexcredit-catalog | entry at the end of Finance & Fintech; PR is opened only after the Glama listing exists — the list's bot requires a Glama quality badge |
+| Smithery | 2026-09-07 | live | https://smithery.ai/server/alexandr-rzk/alexcredit-catalog | published via CLI as `alexandr-rzk/alexcredit-catalog`, 7 tools detected; display name, description and icon must be filled in the Smithery web UI (see manual-submissions.md) |
 | Glama (auto-index from registry) | — | wait 24h | — | check glama.ai/mcp/servers, then claim as owner |
 | PulseMCP | — | manual | — | submit form, then claim auto-listing if it appears first |
 | mcp.so | — | manual | — | submit form or GitHub issue |
