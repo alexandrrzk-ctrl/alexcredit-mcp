@@ -65,9 +65,14 @@ The server is already published from the CLI. Log in as the owner and fill in th
 
 - Name, repo URL, endpoint, category Finance, *Long description*.
 
-## Glama — https://glama.ai/mcp/servers
+## Glama — https://glama.ai/mcp/servers (Add server)
 
-- Do not submit manually. The server is auto-indexed from the official registry within ~24 h of publishing. Then open the listing and **claim** it (verified owner) with the GitHub account alexandrrzk-ctrl.
+Add manually right after publishing (faster than waiting for auto-indexing from the registry; this is how mfoxa was listed). Log in with the GitHub account alexandrrzk-ctrl.
+
+- GitHub repository: https://github.com/alexandrrzk-ctrl/alexcredit-mcp
+- Remote endpoint (if asked): https://alexcredit.kz/api/mcp — Streamable HTTP, no authentication
+- Name / description: from *Common fields* above
+- Expected listing URL: https://glama.ai/mcp/servers/alexandrrzk-ctrl/alexcredit-mcp — after it appears, claim it as owner and tell the maintainer of this repo so the awesome-mcp-servers PR can be opened (the list's bot requires the Glama badge).
 
 ## Anthropic Claude connectors directory
 
